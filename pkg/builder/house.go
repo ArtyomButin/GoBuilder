@@ -1,7 +1,7 @@
 package builder
 
 type house struct {
-	windowType string
-	doorType   string
-	floor      int
+	WindowType string
+	DoorType   string
+	Floor      int
 }
